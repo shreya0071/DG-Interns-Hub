@@ -1,0 +1,6 @@
+Task 3: Practice Basic Networking Commands
+Use and document the following commands:
+ping – Test network connectivity
+traceroute / tracert – Analyze packet path
+netstat – View network statistics
+ipconfig / ifconfig – View or configure network interfaces
