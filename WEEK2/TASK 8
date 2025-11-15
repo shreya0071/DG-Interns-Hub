@@ -1,0 +1,3 @@
+Task 8: Install & Configure Web Server
+Install Apache (sudo apt install apache2) or Nginx (sudo apt install nginx).
+Test using a web browser or the curl command.
