@@ -1,0 +1,1 @@
+This task includes practicing basic networking commands such as ping, traceroute/tracert, netstat, and ipconfig/ifconfig to test connectivity, analyze packet routes, view network statistics, and check network interface configurations.
