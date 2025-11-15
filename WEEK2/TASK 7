@@ -1,0 +1,5 @@
+Task 7: Enable SSH Between VMs
+Install and enable SSH:
+sudo apt install openssh-server
+Test remote login using:
+ssh user@host
